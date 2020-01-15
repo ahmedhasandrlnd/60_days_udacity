@@ -31,12 +31,14 @@
 ### Day 1
 <a id='day1'></a>
 ![Day1](day1.JPG)
+
 [Back to Top](#top)
 
 *** 
 ### Day 2
 <a id='day2'></a>
 ![Day2](day2.JPG)
+
 [Back to Top](#top)
 
 ***
