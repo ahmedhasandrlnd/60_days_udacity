@@ -43,3 +43,54 @@
 [Back to Top](#top)
 
 ***
+### Day 3
+<a id='day3'></a>
+![Day3](day2.JPG)
+
+[Back to Top](#top)
+
+***
+### Day 4
+<a id='day4'></a>
+![Day4](day4.JPG)
+
+[Back to Top](#top)
+
+***
+### Day 5
+<a id='day5'></a>
+![Day5](day5.JPG)
+
+[Back to Top](#top)
+
+***
+### Day 6
+<a id='day6'></a>
+![Day6](day6.JPG)
+![Day9](day6b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day 8
+<a id='day8'></a>
+![Day8](day8.JPG)
+
+[Back to Top](#top)
+
+***
+### Day 9
+<a id='day9'></a>
+![Day9](day9.JPG)
+![Day9](day9b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day 10
+<a id='day10'></a>
+![Day10](day10.JPG)
+
+[Back to Top](#top)
+
+***
