@@ -38,6 +38,7 @@
 ### Day 2
 <a id='day2'></a>
 ![Day2](day2.JPG)
+![Day2](day2b.JPG)
 
 [Back to Top](#top)
 
