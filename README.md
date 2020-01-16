@@ -197,6 +197,7 @@
 ### Day25
 <a id='day25'></a>
 ![Day25](day25.JPG)
+
 [Certificate](day25b.pdf)
 
 [Back to Top](#top)
