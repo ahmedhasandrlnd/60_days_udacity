@@ -39,6 +39,7 @@
 <a id='day2'></a>
 ![Day2](day2.JPG)
 ![Day2](day2b.JPG)
+[Github link](https://github.com/ahmedhasandrlnd/dog_breed_classifier_capstone)
 
 [Back to Top](#top)
 
@@ -90,6 +91,7 @@
 <a id='day9'></a>
 ![Day9](day9.JPG)
 ![Day9](day9b.JPG)
+[Airtable link](https://airtable.com/shradzeT431S2P1LC/tbl37bRXN1z6X25IZ/viw4cse1F0hi5r4p5?blocks=hide)
 
 [Back to Top](#top)
 
@@ -140,6 +142,7 @@
 ### Day 16
 <a id='day16'></a>
 ![Day16](day16.JPG)
+[Youtube link](https://www.youtube.com/watch?v=-hFAWk6hyZA)
 
 
 [Back to Top](#top)
@@ -163,6 +166,7 @@
 <a id='day19'></a>
 ![Day19](day19.JPG)
 ![Day9](day19b.JPG)
+[Blog link](https://medium.com/@hasan.ahmedmonjurul/getting-started-with-git-in-bertelsmann-tech-scholarship-b5d4b349ac6)
 
 [Back to Top](#top)
 
