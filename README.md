@@ -7,7 +7,7 @@
 
 - [Day01](#day1) [Day02](#day2) [Day03](#day3) [Day04](#day4) [Day05](#day5) [Day06](#day6) [Day07](#day7) [Day08](#day8) [Day09](#day9) [Day10](#day10) 
 - [Day11](#day11) [Day12](#day12) [Day13](#day13) [Day14](#day14) [Day15](#day15) [Day16](#day16) [Day17](#day17) [Day18](#day18) [Day19](#day19) [Day20](#day20)
-
+- [Day21](#day21) [Day22](#day22) [Day23](#day23) [Day24](#day24) [Day25](#day25) [Day26](#day26) [Day27](#day27) [Day28](#day28) [Day29](#day29) [Day30](#day30)
 
 ***
 ### Day01
@@ -150,7 +150,7 @@
 ### Day19
 <a id='day19'></a>
 ![Day19](day19.JPG)
-![Day9](day19b.JPG)
+![Day19](day19b.JPG)
 
 [Blog link](https://medium.com/@hasan.ahmedmonjurul/getting-started-with-git-in-bertelsmann-tech-scholarship-b5d4b349ac6)
 
@@ -160,6 +160,84 @@
 ### Day20
 <a id='day20'></a>
 ![Day20](day20.JPG)
+
+[Back to Top](#top)
+
+***
+### Day21
+<a id='day21'></a>
+![Day21](day21.JPG)
+![Day21](day21b.JPG)
+
+[Back to Top](#top)
+
+*** 
+### Day22
+<a id='day22'></a>
+![Day22](day22.JPG)
+
+[Back to Top](#top)
+
+***
+### Day23
+<a id='day23'></a>
+![Day23](day23.JPG)
+
+[Back to Top](#top)
+
+***
+### Day24
+<a id='day24'></a>
+![Day24](day24.JPG)
+![Day24](day24b.gif)
+
+[Back to Top](#top)
+
+***
+### Day25
+<a id='day25'></a>
+![Day25](day25.JPG)
+[Certificate](day25b.pdf)
+
+[Back to Top](#top)
+
+***
+### Day26
+<a id='day26'></a>
+![Day26](day26.JPG)
+![Day26](day26b.JPG)
+![Day26](day26c.JPG)
+
+[Back to Top](#top)
+
+***
+### Day27
+<a id='day27'></a>
+![Day27](day27.JPG)
+
+[Back to Top](#top)
+
+***
+### Day28
+<a id='day28'></a>
+![Day28](day28.JPG)
+![Day28](day28b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day29
+<a id='day29'></a>
+![Day29](day29.JPG)
+
+[Back to Top](#top)
+
+***
+### Day30
+<a id='day30'></a>
+![Day30](day30.JPG)
+![Day30](day30b.JPG)
+![Day30](day30c.JPG)
 
 [Back to Top](#top)
 
