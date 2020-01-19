@@ -261,7 +261,7 @@
 ### Day33
 <a id='day33'></a>
 ![Day33](day33.JPG)
-![Day33](day33b.JPG)
+![Day33](day33b.jpg)
 
 [Back to Top](#top)
 
