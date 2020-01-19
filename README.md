@@ -333,7 +333,8 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 ### Day41
 <a id='day41'></a>
 ![Day41](day41.JPG)
-![Day41](day41b.pdf)
+
+[Day41](day41b.pdf)
 
 [Back to Top](#top)
 
