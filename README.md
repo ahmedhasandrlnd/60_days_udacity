@@ -8,6 +8,7 @@
 - [Day01](#day1) [Day02](#day2) [Day03](#day3) [Day04](#day4) [Day05](#day5) [Day06](#day6) [Day07](#day7) [Day08](#day8) [Day09](#day9) [Day10](#day10) 
 - [Day11](#day11) [Day12](#day12) [Day13](#day13) [Day14](#day14) [Day15](#day15) [Day16](#day16) [Day17](#day17) [Day18](#day18) [Day19](#day19) [Day20](#day20)
 - [Day21](#day21) [Day22](#day22) [Day23](#day23) [Day24](#day24) [Day25](#day25) [Day26](#day26) [Day27](#day27) [Day28](#day28) [Day29](#day29) [Day30](#day30)
+- [Day31](#day31) [Day32](#day32) [Day33](#day33) [Day34](#day34) [Day35](#day35) [Day36](#day36) [Day37](#day37) [Day38](#day38) [Day39](#day39) [Day40](#day40)
 
 ***
 ### Day01
@@ -243,4 +244,89 @@
 [Back to Top](#top)
 
 ***
+### Day31
+<a id='day31'></a>
+![Day31](day31.JPG)
 
+[Back to Top](#top)
+
+*** 
+### Day32
+<a id='day32'></a>
+![Day32](day32.JPG)
+
+[Back to Top](#top)
+
+***
+### Day33
+<a id='day33'></a>
+![Day33](day33.JPG)
+![Day33](day33b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day34
+<a id='day34'></a>
+![Day34](day34.JPG)
+
+[Back to Top](#top)
+
+***
+### Day35
+<a id='day35'></a>
+![Day35](day35.JPG)
+![Day35](day35b.JPG)
+![Day35](day35c.JPG)
+
+[Youtube link for the webinar](
+https://www.youtube.com/watch?v=3lbfWdjN3yk) 
+[Here is the Presentation Slide for the webinar](
+https://docs.google.com/presentation/d/1nY1Y--bwrak7mtXkantUM6kh47TjqU5xwjP_55imzJM/edit?usp=sharing)
+[BMC Template for Team Work for the webinar](
+https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/edit?usp=sharing)
+
+
+[Back to Top](#top)
+
+***
+### Day36
+<a id='day36'></a>
+![Day36](day36.JPG)
+
+
+[Back to Top](#top)
+
+***
+### Day37
+<a id='day37'></a>
+![Day37](day37.JPG)
+![Day37](day37b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day38
+<a id='day38'></a>
+![Day38](day38.JPG)
+
+[AMA Transcript](day38b.pdf)
+
+[Back to Top](#top)
+
+***
+### Day39
+<a id='day39'></a>
+![Day39](day39.JPG)
+
+[Back to Top](#top)
+
+***
+### Day40
+<a id='day40'></a>
+![Day40](day40.JPG)
+![Day40](day40b.JPG)
+
+[Back to Top](#top)
+
+***
