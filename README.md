@@ -9,7 +9,7 @@
 - [Day11](#day11) [Day12](#day12) [Day13](#day13) [Day14](#day14) [Day15](#day15) [Day16](#day16) [Day17](#day17) [Day18](#day18) [Day19](#day19) [Day20](#day20)
 - [Day21](#day21) [Day22](#day22) [Day23](#day23) [Day24](#day24) [Day25](#day25) [Day26](#day26) [Day27](#day27) [Day28](#day28) [Day29](#day29) [Day30](#day30)
 - [Day31](#day31) [Day32](#day32) [Day33](#day33) [Day34](#day34) [Day35](#day35) [Day36](#day36) [Day37](#day37) [Day38](#day38) [Day39](#day39) [Day40](#day40)
-- [Day41](#day41)
+- [Day41](#day41)[Day42](#day42) [Day43](#day43) [Day44](#day44) [Day45](#day45) [Day46](#day46) [Day47](#day47) [Day48](#day48) [Day49](#day49) [Day50](#day50)
 ***
 ### Day01
 <a id='day1'></a>
@@ -335,6 +335,82 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 ![Day41](day41.JPG)
 
 [Certificate](day41b.pdf)
+
+[Back to Top](#top)
+
+***
+### Day42
+<a id='day42'></a>
+![Day42](day42.JPG)
+![Day42](day42b.JPG)
+![Day42](day42c.JPG)
+
+[Back to Top](#top)
+
+***
+### Day43
+<a id='day43'></a>
+![Day43](day43.JPG)
+![Day43](day43b.jpg)
+![Day43](day43c.jpg)
+
+[Back to Top](#top)
+
+***
+### Day44
+<a id='day44'></a>
+![Day44](day44.JPG)
+![Day44](day44b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day45
+<a id='day45'></a>
+![Day45](day45.JPG)
+![Day45](day45b.JPG)
+![Day45](day45c.png)
+
+[Back to Top](#top)
+
+***
+### Day46
+<a id='day46'></a>
+![Day46](day46.JPG)
+![Day46](day46b.JPG)
+![Day46](day46c.JPG)
+
+[Back to Top](#top)
+
+***
+### Day47
+<a id='day47'></a>
+![Day47](day47.JPG)
+![Day47](day47b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day38
+<a id='day38'></a>
+![Day38](day38.JPG)
+
+[AMA Transcript](day38b.pdf)
+
+[Back to Top](#top)
+
+***
+### Day39
+<a id='day39'></a>
+![Day39](day39.JPG)
+
+[Back to Top](#top)
+
+***
+### Day40
+<a id='day40'></a>
+![Day40](day40.JPG)
+![Day40](day40b.JPG)
 
 [Back to Top](#top)
 
