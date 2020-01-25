@@ -343,6 +343,7 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 <a id='day42'></a>
 ![Day42](day42.JPG)
 ![Day42](day42b.JPG)
+
 ![Day42](day42c.JPG)
 
 [Back to Top](#top)
@@ -351,8 +352,8 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 ### Day43
 <a id='day43'></a>
 ![Day43](day43.JPG)
-![Day43](day43b.jpg)
-![Day43](day43c.jpg)
+![Day43](day43b.JPG)
+![Day43](day43c.JPG)
 
 [Back to Top](#top)
 
