@@ -392,26 +392,111 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 [Back to Top](#top)
 
 ***
-### Day38
-<a id='day38'></a>
-![Day38](day38.JPG)
+### Day48
+<a id='day48'></a>
+![Day48](day48.JPG)
 
-[AMA Transcript](day38b.pdf)
-
-[Back to Top](#top)
-
-***
-### Day39
-<a id='day39'></a>
-![Day39](day39.JPG)
 
 [Back to Top](#top)
 
 ***
-### Day40
-<a id='day40'></a>
-![Day40](day40.JPG)
-![Day40](day40b.JPG)
+### Day49
+<a id='day49'></a>
+![Day49](day49.JPG)
+![Day49](day49b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day50
+<a id='day50'></a>
+![Day50](day50.JPG)
+![Day50](day50b.gif)
+![Day50](day50c.JPG)
+
+[Back to Top](#top)
+
+***
+### Day51
+<a id='day51'></a>
+![Day51](day51.JPG)
+![Day51](day51b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day52
+<a id='day52'></a>
+![Day52](day52.JPG)
+![Day52](day52b.gif)
+
+
+[Back to Top](#top)
+
+***
+### Day53
+<a id='day53'></a>
+![Day53](day53.JPG)
+![Day53](day53b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day54
+<a id='day54'></a>
+![Day54](day54.JPG)
+![Day54](day54b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day55
+<a id='day55'></a>
+![Day55](day55.JPG)
+![Day55](day55b.JPG)
+![Day45](day45c.png)
+
+[Back to Top](#top)
+
+***
+### Day56
+<a id='day56'></a>
+![Day56](day56.JPG)
+![Day56](day56b.JPG)
+![Day56](day56c.jpg)
+
+[Back to Top](#top)
+
+***
+### Day47
+<a id='day47'></a>
+![Day47](day47.JPG)
+![Day47](day47b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day48
+<a id='day48'></a>
+![Day48](day48.JPG)
+
+
+[Back to Top](#top)
+
+***
+### Day49
+<a id='day49'></a>
+![Day49](day49.JPG)
+![Day49](day49b.JPG)
+
+[Back to Top](#top)
+
+***
+### Day50
+<a id='day50'></a>
+![Day50](day50.JPG)
+![Day50](day50b.gif)
+![Day50](day50c.JPG)
 
 [Back to Top](#top)
 
