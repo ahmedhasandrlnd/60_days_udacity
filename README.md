@@ -454,7 +454,6 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 <a id='day55'></a>
 ![Day55](day55.JPG)
 ![Day55](day55b.JPG)
-![Day45](day45c.png)
 
 [Back to Top](#top)
 
