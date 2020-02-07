@@ -489,7 +489,8 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 ### Day59
 <a id='day59'></a>
 ![Day59](images/day59.JPG)
-[Day59](images/day59b.pdf)
+
+[Certificate](images/day59b.pdf)
 
 [Back to Top](#top)
 
@@ -497,7 +498,8 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 ### Day60
 <a id='day60'></a>
 ![Day60](images/day60.JPG)
-[Day60](images/day60b.pdf)
+
+[Certificate](images/day60b.pdf)
 
 [Back to Top](#top)
 
