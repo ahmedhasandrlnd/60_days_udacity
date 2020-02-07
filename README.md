@@ -467,35 +467,35 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 [Back to Top](#top)
 
 ***
-### Day47
-<a id='day47'></a>
-![Day47](day47.JPG)
-![Day47](day47b.JPG)
+### Day57
+<a id='day57'></a>
+![Day57](day57.JPG)
+![Day57](day57b.gif)
+![Day57](day57c.gif)
 
 [Back to Top](#top)
 
 ***
-### Day48
-<a id='day48'></a>
-![Day48](day48.JPG)
-
-
-[Back to Top](#top)
-
-***
-### Day49
-<a id='day49'></a>
-![Day49](day49.JPG)
-![Day49](day49b.JPG)
+### Day58
+<a id='day58'></a>
+![Day58](day58.JPG)
+![Day58](day58b.gif)
 
 [Back to Top](#top)
 
 ***
-### Day50
-<a id='day50'></a>
-![Day50](day50.JPG)
-![Day50](day50b.gif)
-![Day50](day50c.JPG)
+### Day59
+<a id='day59'></a>
+![Day59](day59.JPG)
+![Day59](day59b.pdf)
+
+[Back to Top](#top)
+
+***
+### Day60
+<a id='day60'></a>
+![Day60](day60.JPG)
+![Day60](day60b.pdf)
 
 [Back to Top](#top)
 
