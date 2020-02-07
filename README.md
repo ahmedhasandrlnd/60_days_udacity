@@ -83,8 +83,8 @@
 
 ***
 ### Day10
-<a id='images/day10'></a>
-![Day10](day10.JPG)
+<a id='day10'></a>
+![Day10](images/day10.JPG)
 
 [Back to Top](#top)
 
