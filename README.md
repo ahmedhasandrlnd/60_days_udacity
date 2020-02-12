@@ -13,7 +13,7 @@
 - [Day31](#day31) [Day32](#day32) [Day33](#day33) [Day34](#day34) [Day35](#day35) [Day36](#day36) [Day37](#day37) [Day38](#day38) [Day39](#day39) [Day40](#day40)
 - [Day41](#day41)[Day42](#day42) [Day43](#day43) [Day44](#day44) [Day45](#day45) [Day46](#day46) [Day47](#day47) [Day48](#day48) [Day49](#day49) [Day50](#day50)
 - [Day51](#day51)[Day52](#day52) [Day53](#day53) [Day54](#day54) [Day55](#day55) [Day56](#day56) [Day57](#day57) [Day58](#day58) [Day59](#day59) [Day60](#day60)
-- [Day61](#day61)[Day62](#day62) [Day63](#day63) [Day64](#day64) [Day65](#day65) [Day66](#day66) [Day67](#day67) [Day68](#day88) [Day69](#day69) [Day70](#day70)
+- [Day61](#day61)[Day62](#day62) [Day63](#day63) [Day64](#day64) [Day65](#day65) [Day66](#day66) <!---[Day67](#day67) [Day68](#day88) [Day69](#day69) [Day70](#day70)--->
 
 
 ***
@@ -548,24 +548,25 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 [Back to Top](#top)
 
 ***
-### Day55
-<a id='day55'></a>
-![Day55](images/day55.JPG)
-![Day55](images/day55b.JPG)
+### Day65
+<a id='day65'></a>
+![Day65](images/day65.JPG)
+![Day65](images/day65b.JPG)
 
 [Back to Top](#top)
 
 ***
-### Day56
-<a id='day56'></a>
-![Day56](images/day56.JPG)
-![Day56](images/day56b.JPG)
-![Day56](images/day56c.jpg)
+### Day66
+<a id='day66'></a>
+![Day66](images/day66.JPG)
+![Day66](images/day66b.JPG)
+
+[Day66](images/day66c.pdf)
 
 [Back to Top](#top)
 
 ***
-### Day57
+<!---### Day57
 <a id='day57'></a>
 ![Day57](images/day57.JPG)
 ![Day57](images/day57b.gif)
@@ -601,3 +602,4 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 [Back to Top](#top)
 
 ***
+--->
