@@ -563,7 +563,7 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 ![Day66](images/day66.JPG)
 ![Day66](images/day66b.JPG)
 
-[Day66](images/day66c.pdf)
+[Node.js Essestial Training](images/day66c.pdf)
 
 [Back to Top](#top)
 
