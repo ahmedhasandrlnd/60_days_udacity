@@ -14,8 +14,7 @@
 - [Day41](#day41)[Day42](#day42) [Day43](#day43) [Day44](#day44) [Day45](#day45) [Day46](#day46) [Day47](#day47) [Day48](#day48) [Day49](#day49) [Day50](#day50)
 - [Day51](#day51)[Day52](#day52) [Day53](#day53) [Day54](#day54) [Day55](#day55) [Day56](#day56) [Day57](#day57) [Day58](#day58) [Day59](#day59) [Day60](#day60)
 - [Day61](#day61)[Day62](#day62) [Day63](#day63) [Day64](#day64) [Day65](#day65) [Day66](#day66) 
-[Day67](#day67) [Day68](#day68)
-<!---) [Day69](#day69) [Day70](#day70)--->
+[Day67](#day67) [Day68](#day68) [Day69](#day69) <!---) [Day70](#day70)--->
 
 
 ***
@@ -588,16 +587,21 @@ https://docs.google.com/document/d/1o9FrSoxo2cD8TTEND9N3MhIW4ZWbfNsVb6msIggW3uY/
 [Back to Top](#top)
 
 ***
-<!---
-### Day59
-<a id='day59'></a>
-![Day59](images/day59.JPG)
+### Day69
+<a id='day69'></a>
+![Day69](images/day69.JPG)
+![Day69](images/day69b.JPG)
+![Day69](images/day69c.JPG)
+![Day69](images/day69d.JPG)
+![Day69](images/day69.JPG)
 
-[Certificate](images/day59b.pdf)
+[Certificate](images/day69e.pdf)
 
 [Back to Top](#top)
 
+
 ***
+<!---
 ### Day60
 <a id='day60'></a>
 ![Day60](images/day60.JPG)
